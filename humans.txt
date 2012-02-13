@@ -3,18 +3,17 @@
 
 
 /* TEAM */
-  <your title>: <your name>
-  Site: 
-  Twitter: 
-  Location: 
+  Designed and Coded with love by Manik Rathee
+  Site: www.manikrathee.com
+  Twitter: @manikrathee
+  Location: East Coast, USA
 
 /* THANKS */
-  Names (& URL): 
+  Twitter Bootstrap, 1140gs 
 
 /* SITE */
   Standards: HTML5, CSS3
   Components: Modernizr, jQuery
-  Software:
   
 
                                     
